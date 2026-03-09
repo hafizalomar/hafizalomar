@@ -13,14 +13,9 @@ I am always learning new technologies and building projects to improve my skills
 
 # 🛠️ Technologies & Tools I know
 
-**Language**s
+**Languages & Databases**
 <p align="left"> 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js," /> 
-</p>
-
-**Databases**
-<p align="left"> 
-<img src="https://skillicons.dev/icons?i=postgres,mysql" /> 
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,postgres,mysql" /> 
 </p>
 
 **Frameworks & Library**
@@ -35,9 +30,8 @@ I am always learning new technologies and building projects to improve my skills
 
 <h2 align="center">You can connect with me</h2>
 <p align="center"> 
+<a href="https://github.com/hafizalomar"><img src="https://skillicons.dev/icons?i=github" /></a>
 <a href="https://www.linkedin.com/in/hafizalomar/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://www.instagram.com/hafiz_al_omar/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
-
-**⚡ Fun Fact**
-💡 I enjoy learning how networks, operating systems, and security systems work internally.
+<h4 align="center"> ⚡ Fun Fact💡 I enjoy learning how networks, operating systems, and security systems work internally. </h4>
